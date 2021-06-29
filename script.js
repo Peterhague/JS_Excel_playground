@@ -5,3 +5,5 @@ let table = document.getElementById("tbl-data");
 table.innerHTML(wb);
 let par = document.getElementById("testpar");
 par.style.backgroundColor = "red";
+let parTwo = document.getElementById("partwo");
+parTwo.innerHTML = "seond para";
