@@ -1,0 +1,22 @@
+{
+  "name": "js_excel_playground",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peterhague/JS_Excel_playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peterhague/JS_Excel_playground/issues"
+  },
+  "homepage": "https://github.com/Peterhague/JS_Excel_playground#readme",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
+}
